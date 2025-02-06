@@ -42,7 +42,8 @@ I'm Dauletnazar, a **Backend Developer** passionate about **scalable architectur
 **Description:**  
 ✔️ Users can **write, edit, and delete blogs**  
 ✔️ Implemented **role-based access**  
-✔️ Designed an **optimized PostgreSQL database schema**  
+✔️ Designed an **optimized PostgreSQL database schema**
+- [https://github.com/Dauletnazarr/django_sprint4](https://github.com/Dauletnazarr/django_sprint4)
 
 ---
 
@@ -51,7 +52,8 @@ I'm Dauletnazar, a **Backend Developer** passionate about **scalable architectur
 **Description:**  
 ✔️ Developed **JWT-based authentication**  
 ✔️ Implemented **email-based user verification**  
-✔️ Built a **secure user roles & permissions system**  
+✔️ Built a **secure user roles & permissions system**
+- [https://github.com/Dauletnazarr/api_yamdb](https://github.com/Dauletnazarr/api_yamdb)
 
 ---
 
@@ -59,7 +61,8 @@ I'm Dauletnazar, a **Backend Developer** passionate about **scalable architectur
 **Stack:** Python • Pygame  
 **Description:**  
 ✔️ Implemented classic **Snake game mechanics**  
-✔️ Added **collision handling & scoring system**  
+✔️ Added **collision handling & scoring system**
+- [https://github.com/Dauletnazarr/the_snake](https://github.com/Dauletnazarr/the_snake)
 
 ---
 
