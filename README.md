@@ -43,7 +43,7 @@ I'm Dauletnazar, a **Backend Developer** passionate about **scalable architectur
 ✔️ Users can **write, edit, and delete blogs**  
 ✔️ Implemented **role-based access**  
 ✔️ Designed an **optimized PostgreSQL database schema**
-- [https://github.com/Dauletnazarr/django_sprint4](https://github.com/Dauletnazarr/Blogicum)
+- [https://github.com/Dauletnazarr/Blogicum](https://github.com/Dauletnazarr/Blogicum)
 
 ---
 
