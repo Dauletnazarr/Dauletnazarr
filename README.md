@@ -32,8 +32,8 @@ I'm Dauletnazar, a **Backend Developer** passionate about **scalable architectur
 ✔️ Built a **scalable REST API** for managing user-created recipes  
 ✔️ Users can **subscribe, favorite, and generate shopping lists**  
 ✔️ Deployed using **Docker + Nginx + Gunicorn**, CI/CD with **GitHub Actions**
-[https://github.com/Dauletnazarr/foodgram](https://github.com/Dauletnazarr/foodgram)
-[https://ricky-foodgram.hopto.org/](https://ricky-foodgram.hopto.org/recipes)
+- [https://github.com/Dauletnazarr/foodgram](https://github.com/Dauletnazarr/foodgram)
+- [https://ricky-foodgram.hopto.org/](https://ricky-foodgram.hopto.org/recipes)
 
 ---
 
