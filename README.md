@@ -79,7 +79,6 @@ I'm Dauletnazar, a **Backend Developer** passionate about **scalable architectur
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rickystones)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daulet.nazar@yandex.ru)  
 
 💡 *I'm always open to collaborations on backend engineering, cloud infrastructure, and DevOps projects! Let’s connect.* 🚀
