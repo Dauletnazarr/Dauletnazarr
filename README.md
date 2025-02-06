@@ -64,7 +64,7 @@ I'm Dauletnazar, a **Backend Developer** passionate about **scalable architectur
 ## 🎓 Education & Certifications
 
 📖 **Bachelor's degree in Computer Science (Ongoing)**  
-*University of UoPeople in California, USA*  
+*University of The People in California, USA*  
 
 🎓 **Yandex Practicum - Python Developer Bootcamp**  
 
