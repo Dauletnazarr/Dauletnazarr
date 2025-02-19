@@ -9,9 +9,9 @@ I'm Dauletnazar, a **Backend Developer** passionate about **scalable architectur
 ## 🛠 Tech Stack
 
 ### 🚀 Backend & API Development
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-- ![REST](https://img.shields.io/badge/-REST-FF6F00?style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-FF6F00?style=flat)
 
 ### 🗄️ Databases
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
